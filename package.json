@@ -1,6 +1,6 @@
 {
   "name": "contract-abstractions-manager",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0",
   "description": "Smart contract abstractions manager",
   "scripts": {
     "test": "mocha lib/**/*.spec.js"
